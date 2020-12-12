@@ -1,16 +1,17 @@
-### Hi there 👋
+### Mahraf Ahmed
 
-<!--
-**ahmed-mahraf/ahmed-mahraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently graduating in Computer Games Programming 
+- 🔭 I’m currently working on cleaning my code 
+- 📚 I’m currently learning Ethical Hacking via Udemy
+- 💬 Ask me about anything related to programming
 
-Here are some ideas to get you started:
+### Languages & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="CPP" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="CSHARP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+<img align="left" alt="PY" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="HTML CSS" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" />
+<img align="left" alt="VS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
+<img align="left" alt="POSTGRESQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img align="left" alt="KALI" width="48px" src="https://www.unixmen.com/wp-content/uploads/2015/11/Kali_Linux_Logo.png" />
+<br />
