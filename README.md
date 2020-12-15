@@ -1,4 +1,4 @@
-### Mahraf Ahmed
+# Mahraf Ahmed
 
 - 🎓 **BSc (Hons), Computer Games Programming**  
 - 🔭 **I’m currently working on cleaning my code**  
