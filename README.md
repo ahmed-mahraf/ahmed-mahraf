@@ -18,3 +18,5 @@
   
 ### Websites Created:  
 - [Revs N Clutches Ltd (Sept 2020)](http://revsnclutches.com)
+
+![Mahrafs's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-mahraf&show_icons=true&theme=radical)
