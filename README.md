@@ -1,9 +1,9 @@
 ### Mahraf Ahmed
 
-- 🎓 **BSc (Hons), Computer Games Programming  
-- 🔭 I’m currently working on cleaning my code  
-- 📚 I’m currently learning Ethical Hacking via Udemy  
-- 💬 Ask me about anything related to programming  
+- 🎓 **BSc (Hons), Computer Games Programming**  
+- 🔭 **I’m currently working on cleaning my code**  
+- 📚 **I’m currently learning Ethical Hacking via Udemy**  
+- 💬 **Ask me about anything related to programming**  
 
 ### Languages & Tools:  
 
