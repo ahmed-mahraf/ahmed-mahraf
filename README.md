@@ -2,7 +2,7 @@
 
 - 🎓 **BSc (Hons), Computer Games Programming**  
 - 🔭 **I’m currently working on cleaning my code**  
-- 📚 **I’m currently learning Ethical Hacking via Udemy**  
+- 📚 **I’m currently learning SQL Databases via Udemy **  
 - 💬 **Ask me about anything related to programming**  
 
 ### Languages & Tools:  
