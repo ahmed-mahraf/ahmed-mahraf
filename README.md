@@ -2,7 +2,7 @@
 
 - 🎓 **BSc (Hons), Computer Games Programming**  
 - 🔭 **I’m currently working on cleaning my code**  
-- 📚 **I’m currently learning SQL Databases via Udemy**  
+- 📚 **I’m currently learning SQL Databases via Udemy & Flutter with Dart**  
 - 💬 **Ask me about anything related to programming**  
 
 ### Languages & Tools:  
@@ -13,7 +13,8 @@
 <img align="left" alt="HTML CSS" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" />
 <img align="left" alt="VS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />
 <img align="left" alt="POSTGRESQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img align="left" alt="DART" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
+<img align="left" alt="FLUTTER" width="118px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
+<img align="left" alt="DART" width="118px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
 <br />  
   
 ### Websites Created:  
