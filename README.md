@@ -1,17 +1,17 @@
 # Mahraf Ahmed
 
 - 🎓 **BSc (Hons), Computer Games Programming**  
-- 🔭 **I’m currently working on Dart via Flutter**  
-- 📚 **I’m currently learning SQL Databases via Udemy**  
-- 💬 **Ask me about anything related to programming**  
+- 💬 **Ask me about anything related to technology & programming.**  
+- 🔭 **Open for work, let's chat!**  
+  
+📚 **Currently Learning (May 2021)**  
 
-### Current Skills: 
 
-<img align="left" alt="DART" width="118px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
-<img align="left" alt="FLUTTER" width="132px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
+<img align="left" alt="DART" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
+<img align="left" alt="FLUTTER" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
 <br />  
   
-### Other Languages & Tools:  
+### Languages & Tools:  
 
 <img align="left" alt="CPP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="CSHARP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1024px-C_Sharp_wordmark.svg.png" />
