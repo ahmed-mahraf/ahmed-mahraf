@@ -2,13 +2,14 @@
 
 - 🎓 **BSc (Hons), Computer Games Programming**  
 - 💬 **Ask me about anything related to technology & programming.**  
-- 🔭 **Open for work, let's chat!**  
   
-📚 **Currently Learning (May 2021)**  
+📚 **Currently Learning (Dec 2022)**  
 
 
 <img align="left" alt="DART" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
 <img align="left" alt="FLUTTER" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
+<img align="left" alt="FLUTTER" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" />
+
 <br />  
   
 ### Languages & Tools:  
