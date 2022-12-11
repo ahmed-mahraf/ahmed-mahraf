@@ -8,8 +8,10 @@
 
 <img align="left" alt="DART" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />
 <img align="left" alt="FLUTTER" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
-<img align="left" alt="FLUTTER" width="116px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" />
+<img align="left" alt="FLUTTER" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" /> 
 
+
+<br />  
 <br />  
   
 ### Languages & Tools:  
@@ -22,12 +24,10 @@
 <img align="left" alt="POSTGRESQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 <br />  
   
-### Websites Created:  
-- [Revs N Clutches Ltd (Sept 2020)](http://revsnclutches.com)  
-  
 ### Projects to upload:  
 - **CPP-Year-2**  
 - **Mobile Robotics**  
 - **Pong?**  
+- **BMI Calculator - Reassess**
   
-![Mahrafs's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-mahraf&show_icons=true&theme=radical)  
+![Mahrafs's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-mahraf&show_icons=true&theme=radical)
